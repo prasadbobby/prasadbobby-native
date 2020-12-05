@@ -1,6 +1,6 @@
 {
   "name": "prasadbobby-native",
-  "version": "11.0.2",
+  "version": "1.0.0",
   "description": "Wrap web apps natively",
   "license": "MIT",
   "author": "Prasad Bobby",
@@ -13,19 +13,20 @@
     "electron",
     "app",
     "native",
-    "wrapper"
+    "wrapper",
+    "prasadbobby"
   ],
   "main": "lib/main.js",
   "bin": {
     "nativefier": "lib/cli.js"
   },
-  "homepage": "https://github.com/prasadbobby/prasadbobby-npm",
+  "homepage": "https://github.com/prasadbobby/prasadbobby-native",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prasadbobby/prasadbobby-npm.git"
+    "url": "git+https://github.com/prasadbobby/prasadbobby-native.git"
   },
   "bugs": {
-    "url": "https://github.com/prasadbobby/prasadbobby-npm/issues"
+    "url": "https://github.com/prasadbobby/prasadbobby-native/issues"
   },
   "scripts": {
     "build-app": "cd app && webpack",
