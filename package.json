@@ -80,7 +80,7 @@
     "@typescript-eslint/eslint-plugin": "^4.6.1",
     "@typescript-eslint/parser": "^4.6.1",
     "eslint": "7.x",
-    "eslint-config-prettier": "6.x",
+    "eslint-config-prettier": "7.x",
     "eslint-plugin-prettier": "3.x",
     "jest": "26.x",
     "prettier": "2.x",
